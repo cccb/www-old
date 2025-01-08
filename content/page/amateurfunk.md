@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Amateurfunk"
 subtitle: "Funken und Löten im CCCB"
 date: 2018-05-17T22:41:48+02:00
@@ -33,4 +33,4 @@ die Klasse A]({{< ref "afu-kurs-e.md" >}}) an die Reihe. Wir treffen uns
 wöchentlich am Montagabend im Zeitraum von 18:00 Uhr bis 20:30 Uhr (mit kurzen
 Pausen zwischendurch).
 
-Details gibt es auf der Seite der [Chaoswelle](https://www.chaoswelle.de/Lehrgang_Berlin_2018).
+Details gibt es auf der Seite der [Chaoswelle](https://www.chaoswelle.de/Lehrgang_Berlin_2018). -->
