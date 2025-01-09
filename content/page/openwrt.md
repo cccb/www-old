@@ -1,7 +1,7 @@
 ---
 title: "OpenWrt"
 subtitle: "OpenWrt Stammtisch"
-date: 2025-01-15T20:00:00+02:00
+date: 2025-01-08T20:00:00+02:00
 dtstart:  20250115T200000
 dtend:    20300115T200000
 rrule:   "FREQ=MONTHLY;BYDAY=3WE;WKST=SU"
