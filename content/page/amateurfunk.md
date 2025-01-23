@@ -2,9 +2,6 @@
 title: "Amateurfunk"
 subtitle: "Funken und Löten im CCCB"
 date: 2018-05-17T22:41:48+02:00
-menu:
-  main:
-    parent: "veranstaltungen"
 ---
 ![Logo der Chaoswelle](/img/chaoswelle.png "Logo der Chaoswelle")
 
