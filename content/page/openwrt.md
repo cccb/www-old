@@ -4,7 +4,7 @@ subtitle: "OpenWrt Stammtisch"
 date: 2025-01-08T20:00:00+02:00
 dtstart:  20250115T200000
 dtend:    20250115T230000
-rrule:   "FREQ=MONTHLY;BYWEEKDAY=3WE;WKST=MO"
+rrule:   "FREQ=MONTHLY;BYDAY=3WE;WKST=MO"
 menu:
   main:
     parent: "veranstaltungen"
